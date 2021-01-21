@@ -1,0 +1,12 @@
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.exe
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.deps.json
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.runtimeconfig.json
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.runtimeconfig.dev.json
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.dll
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\bin\Debug\netcoreapp3.1\ConnectFour.pdb
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.AssemblyInfoInputs.cache
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.AssemblyInfo.cs
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.dll
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.pdb
+C:\Users\bilib\Desktop\ConnectFour\ConnectFour\obj\Debug\netcoreapp3.1\ConnectFour.genruntimeconfig.cache
